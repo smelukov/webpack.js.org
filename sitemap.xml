@@ -88,6 +88,9 @@
         <loc>https://webpack.js.org/api/module-variables/index.html</loc>
     </url>
     <url>
+        <loc>https://webpack.js.org/api/node/index.html</loc>
+    </url>
+    <url>
         <loc>https://webpack.js.org/api/parser/index.html</loc>
     </url>
     <url>
@@ -98,9 +101,6 @@
     </url>
     <url>
         <loc>https://webpack.js.org/api/resolvers/index.html</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/api/node/index.html</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/api/stats/index.html</loc>
@@ -163,13 +163,13 @@
         <loc>https://webpack.js.org/configuration/externals/index.html</loc>
     </url>
     <url>
+        <loc>https://webpack.js.org/configuration/module/index.html</loc>
+    </url>
+    <url>
         <loc>https://webpack.js.org/configuration/node/index.html</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/configuration/optimization/index.html</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/module/index.html</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/configuration/other-options/index.html</loc>
@@ -433,6 +433,9 @@
         <loc>https://webpack.js.org/loaders/transform-loader/index.html</loc>
     </url>
     <url>
+        <loc>https://webpack.js.org/loaders/url-loader/index.html</loc>
+    </url>
+    <url>
         <loc>https://webpack.js.org/loaders/val-loader/index.html</loc>
     </url>
     <url>
@@ -553,9 +556,6 @@
         <loc>https://webpack.js.org/plugins/stylelint-webpack-plugin/index.html</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/plugins/terser-webpack-plugin/index.html</loc>
-    </url>
-    <url>
         <loc>https://webpack.js.org/plugins/uglifyjs-webpack-plugin/index.html</loc>
     </url>
     <url>
@@ -571,7 +571,7 @@
         <loc>https://webpack.js.org/pluginsapi/template/index.html</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/loaders/url-loader/index.html</loc>
+        <loc>https://webpack.js.org/plugins/terser-webpack-plugin/index.html</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/api/plugins/compilation/index.html</loc>
