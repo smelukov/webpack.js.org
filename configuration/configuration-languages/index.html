@@ -12,7 +12,7 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/2/docsearch.min.css" />
     
-      <link href="/495e2b3f7340ff4d5a7c.css" rel="stylesheet">
+      <link href="/0625cf2603c646a16fcc.css" rel="stylesheet">
     
 
     <script src="https://cdn.jsdelivr.net/docsearch.js/2/docsearch.min.js"></script>
@@ -24,8 +24,10 @@
         <span class="text">TypeScript</span>
         <a aria-label="TypeScript" class="icon-link" href="#typescript"></a>
       </h2>
-<p>To write the webpack configuration in <a href="http://www.typescriptlang.org/">TypeScript</a>, you would first install the necessary dependencies:</p>
+<p>To write the webpack configuration in <a href="http://www.typescriptlang.org/">TypeScript</a>, you would first install the necessary dependencies, i.e., TypeScript and the relevant type definitions from the <a href="https://definitelytyped.org/">DefinitelyTyped</a> project:</p>
 <pre><code class="lang-bash">npm <span class="token function">install</span> --save-dev typescript ts-node @types/node @types/webpack
+<span class="token comment"># and, if using webpack-dev-server</span>
+npm <span class="token function">install</span> --save-dev @types/webpack-dev-server
 </code></pre>
 <p>and then proceed to write your configuration:</p>
 <p><strong>webpack.config.ts</strong></p>
